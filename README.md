@@ -18,3 +18,9 @@ The CALTECH-101 dataset is a dataset of 101 object categories with 40 to 800 ima
    * Airplanes: 801 images
 
 *  The reason we are using a subset of the dataset is so you can easily follow along with this example and train the network from scratch, even if you do not have a GPU.
+
+
+^^TO download the dataset , use:
+                  http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz
+                  
+                  *after downloading the dataset extract the dataset using zip extractor.
